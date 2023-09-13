@@ -48,17 +48,9 @@ Certainly, here's the content for your README file on GitHub in direct speech:
 
 "We welcome contributions to improve and enhance this project. Please follow the guidelines in the CONTRIBUTING.md file."
 
-## License
-
-"This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details."
-
-## Acknowledgments
-
-- "[List any acknowledgments or credits for third-party libraries, tools, or resources used in your project.]"
 
 ---
 
 "Feel free to reach out for any questions or feedback regarding this project. Happy budgeting!"
 ```
 
-This version incorporates the content into direct speech, making it sound as if someone is speaking about the project.
