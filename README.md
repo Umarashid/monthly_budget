@@ -1,6 +1,11 @@
 # Monthly Budget Interactive Dashboard
 
 ## Project Description
+![monthly budget picture 1](https://github.com/Umarashid/monthly_budget/assets/134784083/6190ca83-f058-45bd-83bd-7408676c1565)
+![monthly budget picture 2](https://github.com/Umarashid/monthly_budget/assets/134784083/06501c30-ad23-4fb4-a931-67e7c0cc2813)
+![monthly budget picture 3](https://github.com/Umarashid/monthly_budget/assets/134784083/3e03f099-872f-4e1d-807b-e06e844ac4e1)
+
+
 
 "I've created a Monthly Budget Interactive Dashboard using Power BI. This dashboard is designed to help you effectively track, analyze, and manage your monthly budget with ease. It offers a comprehensive overview of your financial data, empowering you to make informed financial decisions and plan effectively."
 
@@ -44,4 +49,3 @@
 ## Contributions
 
 "We welcome contributions to improve and enhance this project. Please follow the guidelines in the CONTRIBUTING.md file."
-![Dashboard Preview](monthly budget picture 1.jpg)
