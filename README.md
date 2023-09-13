@@ -1,6 +1,3 @@
-Certainly, here's the content for your README file on GitHub in direct speech:
-
-```markdown
 # Monthly Budget Interactive Dashboard
 
 ## Project Description
@@ -47,10 +44,3 @@ Certainly, here's the content for your README file on GitHub in direct speech:
 ## Contributions
 
 "We welcome contributions to improve and enhance this project. Please follow the guidelines in the CONTRIBUTING.md file."
-
-
----
-
-"Feel free to reach out for any questions or feedback regarding this project. Happy budgeting!"
-```
-
