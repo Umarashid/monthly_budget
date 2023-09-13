@@ -44,3 +44,4 @@
 ## Contributions
 
 "We welcome contributions to improve and enhance this project. Please follow the guidelines in the CONTRIBUTING.md file."
+![Dashboard Preview](monthly budget picture 1.jpg)
